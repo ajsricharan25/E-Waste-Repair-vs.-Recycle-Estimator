@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+!.env.example
+.vercel/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.DS_Store
